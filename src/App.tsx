@@ -13,7 +13,7 @@ function App() {
 
       <Routes>
         <Route path="/" element={<MainLayout />}>
-          <Route path="/react_redux_pizza" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/cart" element={<Cart />} />
           <Route path="/search" element={<Search />} />
           <Route path="/pizza/:id" element={<Pizza />} />
