@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_redux_pizza/static/css/main.a2275100.css",
-    "main.js": "/react_redux_pizza/static/js/main.3544090e.js",
+    "main.js": "/react_redux_pizza/static/js/main.e5dd1b66.js",
     "static/js/787.d0bfed84.chunk.js": "/react_redux_pizza/static/js/787.d0bfed84.chunk.js",
     "static/media/logo.svg": "/react_redux_pizza/static/media/logo.6e855f406a451bd6abba5e9378f95434.svg",
     "static/media/icon_cart.svg": "/react_redux_pizza/static/media/icon_cart.e0b31d96c7e060f80eae20d1c1429ade.svg",
@@ -11,11 +11,11 @@
     "static/media/star_icon.svg": "/react_redux_pizza/static/media/star_icon.cf78b28de339769f5bdaad8f0117c89f.svg",
     "static/media/arrow_icon.svg": "/react_redux_pizza/static/media/arrow_icon.0efaca61b0ef966d6cc6.svg",
     "main.a2275100.css.map": "/react_redux_pizza/static/css/main.a2275100.css.map",
-    "main.3544090e.js.map": "/react_redux_pizza/static/js/main.3544090e.js.map",
+    "main.e5dd1b66.js.map": "/react_redux_pizza/static/js/main.e5dd1b66.js.map",
     "787.d0bfed84.chunk.js.map": "/react_redux_pizza/static/js/787.d0bfed84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2275100.css",
-    "static/js/main.3544090e.js"
+    "static/js/main.e5dd1b66.js"
   ]
 }
